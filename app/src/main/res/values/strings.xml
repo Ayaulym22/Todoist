@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="label_day_of_week">Day of Week:</string>
+    <string name="hint_title">Hint title</string>
+    <string name="hint_description">Description note</string>
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string name="button_save_note">Add Task</string>
+    <string name="warning_fill_fields">All part must be filled</string>
+    <string name="warning_fill_fileds" />
+
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logo_description">Logo</string>
+    <string name="to_do">To Do</string>
+    <string name="my_upcoming">My Upcoming Events</string>
+
+    <string-array name="tools">
+        <item>Today</item>
+        <item>Upcoming</item>
+        <item>Project</item>
+        <item>Events</item>
+    </string-array>
+
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+
+    <string name="action_settings">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_description">Testing this thing..</string>
+    <string name="tv_title">Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_todo_hint">e.g., Eat less at dinner</string>
+    <string name="today_calendar_button">Today</string>
+    <string name="empty_field">Empty task</string>
+    <string name="due_date_text">Due Date</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="this_wknd">This Weekend</string>
+    <string name="next_week">Next Week</string>
+    <string name="radio_high">High</string>
+    <string name="radio_med">Medium</string>
+    <string name="radio_low">Low</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">Todo App For Mobile Assignement </string>
+    <string name="add_todos">Add a Todo...</string>
+    <string name="priority_flag_description">priority flag</string>
+</resources>
